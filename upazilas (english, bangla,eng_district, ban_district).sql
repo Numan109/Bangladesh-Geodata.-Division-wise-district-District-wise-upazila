@@ -166,7 +166,7 @@ INSERT INTO upazilas (english, bangla, eng_district, ban_district, district_id) 
 ('Raojan', 'রাউজান', 'Chattogram', 'চট্টগ্রাম', 17), 
 ('Sandwip', 'সন্দ্বীপ', 'Chattogram', 'চট্টগ্রাম', 17), 
 ('Satkania', 'সাতকানিয়া', 'Chattogram', 'চট্টগ্রাম', 17), 
-('Sitakunda', 'সীতাকুণ্ড', 'Chattogram', 'চট্টগ্রাম', 17);
+('Sitakunda', 'সীতাকুণ্ড', 'Chattogram', 'চট্টগ্রাম', 17),
 
 -- -----------Cox’s Bazar----------------------- 
 ('Chakoria', 'চকরিয়া', 'Cox’s Bazar', 'কক্সবাজার', 18),
